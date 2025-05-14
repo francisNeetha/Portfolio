@@ -46,7 +46,7 @@ const Skills = () => {
                             aria-controls="panel2-content"
                             id="panel2-header"
                         >
-                            Other than coding, Im also interested in...
+                            Other than coding, Im also interested in.....
                         </AccordionSummary>
                         <AccordionDetails>
 
